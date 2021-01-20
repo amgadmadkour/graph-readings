@@ -4,11 +4,12 @@ This project presents a curated list of fundamental readings in the area of know
 
 ## <a name='TOC'>Table of Contents</a>
 
-  1. [Literature Survey](#survey)
-  2. [Graph Theory](#graph-theory)
+  1. [Literature Surveys](#surveys)
+  2. [Graph Data Management](#graph-dm)
+  3. [Graph Neural Networks](#graph-nn)
 
+## <a name='survey'> Literature Surveys
 
-## <a name='survey'> Literature Survey
+##  <a name='graph-theory'> Graph Data Management
 
-##  <a name='graph-theory'> Graph Theory
-
+##  <a name='graph-nn'> Graph Neural Networks
