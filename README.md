@@ -9,6 +9,7 @@ This project presents a curated list of fundamental readings in the area of know
   3. [Graph Neural Networks](#graph-nn)
 
 ## <a name='survey'> Literature Surveys
+  * **A Survey on Knowledge Graphs: Representation, Acquisition and Applications**. Preprint 2020 [[Paper](https://arxiv.org/pdf/2002.00388)|Summary]
 
 ##  <a name='graph-theory'> Graph Data Management
 
