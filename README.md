@@ -1,16 +1,17 @@
-# Readings in Knowledge Graphs
+# Graph Readings
 
-This project presents a curated list of fundamental readings in the area of knowledge graphs.
+This project presents a curated list of readings about graphs.
 
 ## <a name='TOC'>Table of Contents</a>
 
-  1. [Literature Surveys](#surveys)
-  2. [Graph Data Management](#graph-dm)
-  3. [Graph Neural Networks](#graph-nn)
+  2. [Graph Databases](#graph-db)
+  3. [Graph Query Processing](#graph-qp)
+  4. [Graph Data Management](#graph-dm)
+  5. [Graph Matching](#graph-matching)
+  6. [Graph Neural Networks](#graph-nn)
+  7. [Knowledge Graphs](#knowledge-graph)
+  
 
-## <a name='survey'> Literature Surveys
-  * **A Survey on Knowledge Graphs: Representation, Acquisition and Applications**. Preprint 2020 [[Paper](https://arxiv.org/pdf/2002.00388)|Summary]
+##  <a name='graph-db'> Graph Databases
+  
 
-##  <a name='graph-theory'> Graph Data Management
-
-##  <a name='graph-nn'> Graph Neural Networks
